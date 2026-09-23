@@ -11,9 +11,9 @@ CIT300 - Data Structures and Algorithms
 | Name | Student ID | Responsibility | Individual Contribution |
 |---|---|---|---|
 | MFF Hansa | 23DA2-0480 | Linked List and Student Records | Implemented Student class, linked list, add/update/delete/display and validation |
-| MSF Shahama | 23DA2-0899 | Stack and Queue | Implemented action stack and student service request queue |
+| A Hijas Ahamad | 23DA2-0720| Stack and Queue | Implemented action stack and student service request queue |
 | MM Mifla Banu | 23DA2-1111 | BST and Hashing | Implemented BST organization/search and hash table searching |
-| A Hijas Ahamad | 23DA2-0720 | Graph | Implemented campus graph, adjacency list, location/road operations and BFS |
+| MSF Shahama | 23DA2-0899 | Graph | Implemented campus graph, adjacency list, location/road operations and BFS |
 
 ## Technologies
 - Java
